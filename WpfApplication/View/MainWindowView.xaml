@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApplication.View.MainWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="System Processes" Height="350" Width="720" ResizeMode="CanMinimize" Visibility="Visible">
+
+    <StackPanel Orientation="Horizontal" >
+        <ListBox Name="ProcessName" Height="310" Width="300" ItemsSource="{Binding Path=Processes}" DisplayMemberPath="FullName"  ></ListBox>
+        <ListView Name="MainProcessName" Height="310" Width="300" ItemsSource="{Binding Path=MainProcesses}" ></ListView>
+        <StackPanel>
+            <Button Content="Save to file" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Top" Width="75" Command="{Binding ClickCommand}"/>
+            <Button Content="Update" HorizontalAlignment="Left" Margin="10" VerticalAlignment="Bottom" Width="75" Command="{Binding ClickUpdateCommand}"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

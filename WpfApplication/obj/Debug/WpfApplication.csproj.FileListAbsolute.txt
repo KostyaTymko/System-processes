@@ -1,0 +1,29 @@
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\View\MainWindowView.baml
+c:\users\педро\documents\visual studio 2013\Projects\WpfApplication\WpfApplication\obj\Debug\View\MainWindowView.g.cs
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\View\MainWindowView.baml
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\View\MainWindowView.g.cs
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Педро\Desktop\WpfApplication2\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Педро\Desktop\жопа\WpfApplication3\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Педро\Desktop\жопа\WpfApplication3\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Педро\Desktop\жопа\WpfApplication3\WpfApplication\obj\Debug\WpfApplication.pdb
